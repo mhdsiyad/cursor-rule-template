@@ -115,7 +115,7 @@ API Endpoints:
    }
 
 2. Post Reports List:
-   - URL: https://developers-learn.talrop.com/api/v1/posts/list-reports/?report_type=posts
+   - URL: https://developers.example.com/api/v1/posts/list-reports/?report_type=posts
    - Method: GET
    - Parameters: report_type (posts/comments)
 
