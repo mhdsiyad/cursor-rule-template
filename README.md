@@ -100,7 +100,7 @@ Overview:
 
 API Endpoints:
 1. Dashboard Overview:
-   - URL: https://developers-learn.talrop.com/api/v1/posts/reports-dashboard/
+   - URL: https://developers.example.com/api/v1/posts/reports-dashboard/
    - Method: GET
    - Response: {
        "status_code": 6000,
