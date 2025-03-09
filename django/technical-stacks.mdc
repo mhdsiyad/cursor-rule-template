@@ -1,0 +1,12 @@
+---
+description: Technical stack
+globs: 
+alwaysApply: false
+---
+# Technical stack
+
+- Django is used for building backend
+- Django Rest Framework for building api
+- Django Admin for building admin panel
+- Apis are built in the folder api/v1/(appname)
+- All apis should have authentication unless the requirement say so

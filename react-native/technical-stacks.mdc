@@ -1,0 +1,13 @@
+---
+description: Technical stack
+globs: 
+alwaysApply: false
+---
+# Technical stack
+
+- React Native for the frontend
+- Use Css stylesheet or nativewind for css
+- Use react-navigation for navigation
+- External Rest API for the backend  
+- All apis should have authentication unless the requirement say so
+- Separate api url config for dev, test, and prod 
